@@ -208,7 +208,7 @@ Thanks
 
 
 
-## [how to get started for developing for JNode?](/web/20210917192453/http://jnode.org/node/3393)
+## [how to get started for developing for JNode?](./3393.md)
 
 
 Submitted by othmanelmoulat on Wed, 06/01/2011 - 01:42. * [Wanted](/web/20210917192453/http://jnode.org/forum/14 "JNode needs all the help it can get to grow as fast and solid as we want. This forums contains a list of topics we know we need help with. Suggestions are always welcome.")
@@ -229,7 +229,7 @@ othman
 
 
 
-* [2 comments](/web/20210917192453/http://jnode.org/node/3393#comments "Jump to the first comment of this posting.")
+* [2 comments](./3393#comments "Jump to the first comment of this posting.")
 
 
 **1**[2](/web/20210917192453/http://jnode.org/node?page=1 "Go to page 2")[3](/web/20210917192453/http://jnode.org/node?page=2 "Go to page 3")[4](/web/20210917192453/http://jnode.org/node?page=3 "Go to page 4")[5](/web/20210917192453/http://jnode.org/node?page=4 "Go to page 5")[6](/web/20210917192453/http://jnode.org/node?page=5 "Go to page 6")[7](/web/20210917192453/http://jnode.org/node?page=6 "Go to page 7")[8](/web/20210917192453/http://jnode.org/node?page=7 "Go to page 8")[9](/web/20210917192453/http://jnode.org/node?page=8 "Go to page 9")…[next ›](/web/20210917192453/http://jnode.org/node?page=1 "Go to next page")[last »](/web/20210917192453/http://jnode.org/node?page=64 "Go to last page")
@@ -289,39 +289,6 @@ othman
   
 
 
-## User login
-
- 
-
-Username: \*
-
-
-
-Password: \*
-
-
-
-* [Request new password](/web/20210917192453/http://jnode.org/user/password "Request new password via e-mail.")
-
-
-
-
-
-
-
-
-
 |  |  |
 | --- | --- |
 | Copyright (c) JNode.org 2013 | This page is optimized for Mozilla Firefox |
-
-
-
-  
-
-
-
- 
-
-
-
